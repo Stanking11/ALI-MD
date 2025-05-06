@@ -2,15 +2,7 @@
 
 
 
-  <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itx-alii-raza/ALI-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
+  
 
 > **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
 ---
@@ -19,7 +11,7 @@
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
-
+<p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+ALI-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+STANY+TECH" alt="Typing SVG" /></a>
   </p>
   
