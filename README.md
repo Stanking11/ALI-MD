@@ -11,9 +11,7 @@
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+ALI-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+STANY+TECH" alt="Typing SVG" /></a>
-  
+ 
   
 --- 
 
@@ -24,6 +22,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ***
 
 
+  
 
 
 ### 1. 𐃁FORK THIS REPOSITORY𐃁
@@ -134,9 +133,9 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
 
-> CREDITS PIKABOTZ🎐
+> STANY TECH TZ🎐
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
+*WE ARE ON FIRE*</h6>
 
 </details>
 
@@ -201,7 +200,7 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 <br>
 
 ```
-THANK YOU TOHID, JAWAD, KERM & YOU SUPPORTERS
+THANK YOU FOR YOUR SUPPORT
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
